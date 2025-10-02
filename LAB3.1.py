@@ -3,7 +3,7 @@ class IOstring:
         self.s = ""
 
     def getString(self):
-        self.s = input("Enter a string: ")
+        self.s = input()
 
     def printString(self):
-        print(self.s.upper()
+        print(self.s.upper())
